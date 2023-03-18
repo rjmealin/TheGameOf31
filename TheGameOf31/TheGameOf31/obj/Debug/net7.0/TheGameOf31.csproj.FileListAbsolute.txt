@@ -1,0 +1,15 @@
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/bin/Debug/net7.0/TheGameOf31
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/bin/Debug/net7.0/TheGameOf31.deps.json
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/bin/Debug/net7.0/TheGameOf31.runtimeconfig.json
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/bin/Debug/net7.0/TheGameOf31.dll
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/bin/Debug/net7.0/TheGameOf31.pdb
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/TheGameOf31.csproj.AssemblyReference.cache
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/TheGameOf31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/TheGameOf31.AssemblyInfoInputs.cache
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/TheGameOf31.AssemblyInfo.cs
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/TheGameOf31.csproj.CoreCompileInputs.cache
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/TheGameOf31.dll
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/refint/TheGameOf31.dll
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/TheGameOf31.pdb
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/TheGameOf31.genruntimeconfig.cache
+/Users/rosebud/repos/TheGameOf31/TheGameOf31/TheGameOf31/obj/Debug/net7.0/ref/TheGameOf31.dll
